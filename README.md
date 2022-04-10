@@ -10,11 +10,17 @@ Author
   <a href="https://github.com/JoshKiyakoo" target="_blank"><img src="https://github.com/JoshKiyakoo/Profiler/blob/master/github.png" target="_blank" alt="JoshKiyakoo on GitHub" width="24px" height="24px"></a>
 </p>
 
-Project Name:
-# SFGBC Official Website [ Coming Soon -Website ]
-Client Name:
-# Semien Full Gospel Local Church
+​Project Domain Name:
+​#​# ​semienfgbc.org 👉 sfgbc_comingsoon
+Project Name:
+##​ Semien Full Gospel Local Church` Official Website Coming Soon Page.
+
+Client Church Name:
+## Semien Full Gospel Local Church
 <p align="center"><a href="https://semienfgbc.org" target="_blank"><img src="https://github.com/JoshKiyakoo/mrms.semienfgbc.org/blob/master/public/icon/FGBC_Fav_Icon.png" width="400"></a></p>
+
+Parent Church Name:
+# Ethiopian Full Gospel believers Church
 
 ## About Laravel
 
